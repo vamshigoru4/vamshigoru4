@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshigoru4&label=Profile%20views&color=0e75b6&style=flat" alt="vamshigoru4" /> </p>
 
-- 📝 I regularly write articles on [https://codebyvamshi.wordpress.com/](https://codebyvamshi.wordpress.com/)
+- 📝 My Site [https://codebyvamsi.wordpress.com/](https://codebyvamsi.wordpress.com/)
 
 - 📫 How to reach me **vamshigoru4@gmail.com**
 
